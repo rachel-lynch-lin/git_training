@@ -2,3 +2,4 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Here is some new text in the file.
 Here is an even more recent change to the file.
 Here is the newest change for the section on using the command rebase.
+Here are new changes for updating the dev environment with remote changes.
